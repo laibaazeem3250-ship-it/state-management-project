@@ -3,6 +3,9 @@
 One shopping-cart app, built two ways, kept in **separate sections** as the
 instructor asked for the Context API and Redux parts.
 
+**Live demo:** 
+https://state-management-project-kappa.vercel.app
+
 ## Live sections
 
 - `/` — Home, links to both demos
